@@ -6,7 +6,7 @@
 
 // Google Apps Script 웹 앱 배포 주소
 const API_URL =
-  '여기에_Apps_Script_웹앱_URL_입력';
+  'https://script.google.com/macros/s/AKfycbxkjybpfhJGw-B5_j8zDFEX01jFJdwGyFvhRysE9TnXk9unXlMeexk9ivSGUlXqY25U/exec';
 
 // 설정
 const CONFIG = {
